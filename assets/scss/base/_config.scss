@@ -1,7 +1,7 @@
 /***************
 COLOR VARIABLES
 ***************/
-$primary-color: purple;
+$primary-color: darkOliveGreen;
 $link-color: $primary-color;
 
 /***************
@@ -15,6 +15,10 @@ TYPE SETTINGS
 ***************/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,700,700i");
 $sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
+$serif: "Roboto Slab", serif;
 
 /***************
 SIZES

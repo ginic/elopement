@@ -128,3 +128,5 @@ When uploading images please keep file size in mind. For optimizing, we recommen
 ### Favicon
 
 To add your own favicon, replace the image found at `assets/img/favicon.png`.
+
+Icons made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/)
