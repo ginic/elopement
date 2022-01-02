@@ -1,5 +1,3 @@
-![Uni Jekyll Theme](/assets/img/share.jpg)
-
 # Uni – A one-page Jekyll theme
 
 [View Half Demo](http://brianmaierjr.com/uni/) | [View Full Demo](http://brianmaierjr.com/uni/full) | [View Card Demo](http://brianmaierjr.com/uni/card)
@@ -53,7 +51,6 @@ The main settings can be found inside the `_config.yml` file:
 
 ---
 
-![Uni Jekyll Theme](layout--half.jpg)
 
 ## Half Layout
 
@@ -61,7 +58,6 @@ The main settings can be found inside the `_config.yml` file:
 
 ---
 
-![Uni Jekyll Theme](layout--full.jpg)
 
 ## Full layout
 
@@ -69,7 +65,6 @@ The main settings can be found inside the `_config.yml` file:
 
 ---
 
-![Uni Jekyll Theme](layout--card.jpg)
 
 ## Card layout
 
@@ -123,7 +118,7 @@ To replace the images, modify the names in the `responsivebackground` mixin as s
 @include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
 ```
 
-When uploading images please keep file size in mind. For optimizing, we recommend using [TinyPNG](https://tinypng.com) and [TinyJPG](https://tinyjpg.com).
+When uploading images please keep file size in mind. For optimizing, we recommend using [TinyPNG](https://tinypng.com) and [TinyJPG](https://tinyjpg.com). You can also use the unix command line `convert` program.
 
 ### Favicon
 
