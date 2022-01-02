@@ -11,8 +11,11 @@
     }
 
     .pageTitle {
+      padding-top: 0.2em;
       color: $primary-color;
-      font-weight: 300;
+      font-weight: 700;
+      font-family: $cursive;
+      font-size: 8em;
     }
 
     > div {
@@ -26,10 +29,6 @@
         padding: $padding;
       }
     }
-  }
-
-  .socialLinks__link {
-    @include button--outline();
   }
 
   &__content {

@@ -13,12 +13,11 @@ $line-height: 44px; // Consistent height for buttons, inputs etc.
 /***************
 TYPE SETTINGS
 ***************/
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,700,700i");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Qwitcher+Grypen:wght@700&family=Roboto+Slab:wght@300');
+$cursive: "Qwitcher Grypen", "Brush Script MT", "Apple Chancery", cursive;
 $sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
-
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
 $serif: "Roboto Slab", serif;
+
 
 /***************
 SIZES

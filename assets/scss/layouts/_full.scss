@@ -1,13 +1,13 @@
 .full {
   min-height: 100vh;
   color: white;
-  /*font-family: $sans-serif;*/
-  font-family: $serif;
+  font-family: $sans-serif;
   font-weight: 300;
   background-color: #213334;
 
   .pageTitle {
-    // font-weight: 300;
+    font-weight: 700;
+    font-family: $cursive;
   }
 
   .socialLinks__link {
